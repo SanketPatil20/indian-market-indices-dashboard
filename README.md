@@ -123,7 +123,6 @@ Contributions are welcome! Here's how you can help:
 
 Sanket Patil
 - GitHub: [@SanketPatil20](https://github.com/SanketPatil20)
-- Portfolio: [Add your portfolio link]
 
 ## 📝 License
 
